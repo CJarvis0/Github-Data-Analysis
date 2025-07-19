@@ -1,4 +1,4 @@
-# GroupProj
+# Data Analysis Project 
 **Data Visualization surrounding data scraped from GitHub**  
 
 ### Steps to Install
